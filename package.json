@@ -1,0 +1,13 @@
+{
+  "name": "stack-tracker",
+  "private": true,
+  "version": "2.1.0",
+  "description": "A personal fitness and lifestyle journal — Steps, Hydration, Nutrition, Sleep, Strength, Cardio, and Personal Training, all in one stack.",
+  "scripts": {
+    "deploy": "wrangler deploy",
+    "dev": "wrangler dev"
+  },
+  "devDependencies": {
+    "wrangler": "^4.0.0"
+  }
+}
